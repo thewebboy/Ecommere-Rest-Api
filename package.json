@@ -1,0 +1,28 @@
+{
+  "name": "e-commerce-app",
+  "version": "1.0.0",
+  "description": "this is a demo ecommerce app",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "rishi sharma",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "^1.4.1",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-messages": "*",
+    "express-session": "^1.15.6",
+    "express-sessions": "*",
+    "express-validator": "*",
+    "mongodb": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-http": "*",
+    "passport-local": "*"
+  }
+}
